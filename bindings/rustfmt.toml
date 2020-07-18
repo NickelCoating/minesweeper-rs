@@ -1,0 +1,9 @@
+unstable_features = true
+brace_style = "AlwaysNextLine"
+control_brace_style = "AlwaysNextLine"
+imports_layout = "Horizontal"
+fn_params_layout = "Compressed"
+where_single_line = true
+width_heuristics = "Max"
+struct = "Visual"
+max_width = 200
